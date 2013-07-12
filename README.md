@@ -1,9 +1,9 @@
 dataism
 =======
 
-Analyzing the most common two word phrases with the "data"
+Analyzing the most common two word phrases with the word "data"
 
-For example, from 2000 random tweets, we see this following most common pairs:
+For example, from 2000 random tweets, we see the following most common pairs:
 
 	('big data', 90)
 	('data to', 84)
@@ -28,3 +28,4 @@ For example, from 2000 random tweets, we see this following most common pairs:
 	('my data', 17)
 	('data on', 17)
 	('tem data', 16)
+	...
